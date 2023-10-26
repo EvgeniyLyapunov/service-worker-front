@@ -1,0 +1,9 @@
+.skeleton {
+  width: 800px;
+  height: 658px;
+  background: url('../../img/skeleton.png') center /cover no-repeat;
+}
+
+.error500 {
+  background: url('../../img/Error500.png') center /cover no-repeat;
+}

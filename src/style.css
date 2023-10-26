@@ -1,0 +1,28 @@
+*, *::after, *::before {
+  box-sizing: border-box;
+}
+
+h1, h2, ul {
+  padding: 0;
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #333;
+  background-color: #fbfbfb;
+}
+
+.container {
+  width: 1440px;
+  padding: 10px 120px;
+  margin: 0 auto;
+}
+
+.hide {
+  display: none;
+}
