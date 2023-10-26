@@ -68,7 +68,6 @@ class FishNewsWidget {
 	}
 
 	renderNewsItems(data) {
-		console.log(data);
 		this.listOfNewsBlocks.innerHTML = '';
 		data.forEach((item) => {
 			const newsBlock = document.createElement('li');
